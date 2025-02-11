@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.cxx": "cpp",
+        "Bug_01_HistogramArray.C": "cpp"
+    }
+}

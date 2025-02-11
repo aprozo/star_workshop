@@ -1,0 +1,3 @@
+/star/u/truhlar/STARWorkshopCZE2025/CPP/build/CMakeFiles/rebuild_cache.dir
+/star/u/truhlar/STARWorkshopCZE2025/CPP/build/CMakeFiles/edit_cache.dir
+/star/u/truhlar/STARWorkshopCZE2025/CPP/build/CMakeFiles/star-upc.dir
